@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.prototype;
+package com.coffeepoweredcrew.prototype.src;
 
 //Doesn't support cloning
 public class General extends GameUnit{

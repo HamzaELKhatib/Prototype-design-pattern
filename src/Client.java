@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.prototype;
+package com.coffeepoweredcrew.prototype.src;
 
 import javafx.geometry.Point3D;
 

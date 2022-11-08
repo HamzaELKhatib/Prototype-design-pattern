@@ -1,4 +1,4 @@
-package com.coffeepoweredcrew.prototype;
+package com.coffeepoweredcrew.prototype.src;
 
 public class Swordsman extends GameUnit {
 
